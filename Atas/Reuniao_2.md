@@ -18,6 +18,18 @@ No capítulo 2, mudar o título para fundamentação teórica, referenciar as in
 
 Agendada uma futura reunião para discutirmos uma metodologia de trabalho mais aprofundada para refinarmos a parte 1.5 organização. talvez numa reunião com o Daniel.
 
+Definir o que é "Privacidade de dados" na introdução.
+
+Escrever um parágrafo na introdução indetificando claramente a "definição do problema" do projeto.
+
+No desenvolvimento do texto ser mais direto, simplificar a linguagem e ser mais objetivo.
+
+Quantificar dados citados no texto, por exemplo, "No cenário atual, estamos gerando uma quantidade massiva de dados. " - > quanto? Algumas construções podem ser evitadas, mas outras devem ser exploradas para fortalecer o trabalho. Existem referências abundantes sobre o aumento na velocidade de produção de dados do mundo.
+
+Reavaliar objetivo número 4 - "avaliar o desempenho dos modelos federados" devido ao escopo e trabalho requerido.
+
+No objetivo 2 falta "proteger o provedor do serviço" ou algo equivalente. Falar sobre a possibilidade de usuários adversariais.
+
 ## Links úteis
 
 [Introdução a Deep Q-Learning](https://www.youtube.com/watch?v=-klDuFirYcw)
